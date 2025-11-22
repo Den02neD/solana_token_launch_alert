@@ -1,0 +1,2 @@
+# solana_token_launch_alert
+solana_token_launch_alert
